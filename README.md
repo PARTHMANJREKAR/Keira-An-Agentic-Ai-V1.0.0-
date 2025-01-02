@@ -28,7 +28,7 @@ See the LICENSE file for details.
 **Clone the Repository**
 
 git clone https://github.com/PARTHMANJREKAR/Keira-Chatbot.git
-cd keira-chatbot
+cd Keira-Chatbot
 
 **Install Dependencies**
 Ensure you have Python 3.7+ installed. Then, install the required libraries:
