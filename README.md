@@ -27,7 +27,7 @@ See the LICENSE file for details.
 
 **Clone the Repository**
 
-git clone https://github.com/yourusername/keira-chatbot.git
+git clone https://github.com/PARTHMANJREKAR/Keira-Chatbot.git
 cd keira-chatbot
 
 **Install Dependencies**
