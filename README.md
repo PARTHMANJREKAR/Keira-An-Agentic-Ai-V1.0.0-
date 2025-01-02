@@ -20,7 +20,8 @@ Speech Recognition: Listens and responds to voice commands.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the  GNU AFFERO GENERAL PUBLIC LICENSE , Version 3, 19 November 2007. 
+See the LICENSE file for details.
 
 ## Installation:
 
