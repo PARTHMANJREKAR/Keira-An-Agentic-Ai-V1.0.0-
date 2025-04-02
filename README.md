@@ -1,4 +1,4 @@
-# Keira Chatbot
+# KEIRA
 
 Keira is a Python-based chatbot designed to assist users with various tasks while maintaining a friendly and interactive experience. This first version includes multiple functionalities such as jokes, speech synthesis, geographical information, online searches, and more, all integrated with a female voice and speech recognition capabilities.
 
