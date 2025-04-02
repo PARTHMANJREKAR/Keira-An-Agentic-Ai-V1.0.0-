@@ -10,7 +10,7 @@ Tell a Joke: Keira can lighten the mood with a humorous joke.
 
 Latitude and Longitude: Provides geographical coordinates for your location.
 
-Google and YouTube Search: Performs quick searches and fetches results from Google or YouTube.
+Google Search: Performs quick searches and fetches results from Google or YouTube.
 
 Weather Updates: Delivers the latest weather information.
 
