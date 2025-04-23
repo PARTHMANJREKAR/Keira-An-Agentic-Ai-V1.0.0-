@@ -95,6 +95,25 @@ Submit a pull request with detailed information about your changes.
 🗺️ Geopy
   
 ---
+## 🌱 Be a Part of the Change! 🌱
+
+Inviting visionary sponsors and partners to support my groundbreaking  project. Your sponsorship will directly contribute to real-time data collection, AI-driven analytics, and sustainable urban development. Together, we can build a smarter, Ai infused future while gaining valuable insights into climate change trends.
+
+By sponsoring this project, you will:
+
+🌎 Make a lasting impact on environmental research and policy.
+
+📡 Gain visibility as a sustainability-driven organization.
+
+🔬 Support cutting-edge innovation in Artificial intelligence.
+
+🤝 Collaborate with researchers and policymakers for real-world applications.
+
+Sponsorship link: https://github.com/sponsors/PARTHMANJREKAR
+
+Let's work together to create a healthier, more sustainable urban environment! 🌍✨
+
+---
 
 ## 📩 Contact  
 For queries, feedback, or collaboration opportunities, feel free to reach out!  
