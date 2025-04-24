@@ -29,8 +29,8 @@ See the LICENSE file for details.
 
 **Clone the Repository**
 
-git clone https://github.com/PARTHMANJREKAR/Keira-Chatbot.git
-cd Keira-Chatbot
+git clone https://github.com/PARTHMANJREKAR/Keira-An-Agentic-Ai-V1.0.0-.git
+cd Keira-An-Agentic-Ai-V1.0.0-
 
 **Install Dependencies**
 Ensure you have Python 3.7+ installed. Then, install the required libraries:
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Run the chatbot:
 
-python keira.py
+python source code.py
 
 Interact with Keira using voice commands or text input.
 
